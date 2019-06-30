@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OBDII Analyzer</string>
+    <string name="livefeed">Realtime ECU Data</string>
+    <string name="buttonOn">Turn on Bluetooth</string>
+    <string name="logger">Start Logger</string>
+    <string name="rpm">Engine RPM:</string>
+    <string name="load">Engine Load:</string>
+    <string name="speed">Vehicle Speed:</string>
+    <string name="temp">Intake Temperature:</string>
+    <string name="maf">MAP Sensor:</string>
+    <string name="engtemp">Coolant Temperature:</string>
+    <string name="logstart">Start Logging</string>
+    <string name="upload">Upload Data to Server</string>
+    <string name="uploadfile">Click to Upload File</string>
+    <string name="message">Before clicking the Realtime ECU Data below make sure you have paired your device with your OBDII Adapter.</string>
+    <string name="scan">Scan for devices</string>
+    <string name="logstop">Stop Logging</string>
+</resources>
