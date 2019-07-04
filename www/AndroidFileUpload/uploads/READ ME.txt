@@ -1,1 +1,1 @@
-Σε αυτο το φακελο αποθηκευονται τα αρχεια που ανεβαζουμε απο το κινητο
+In this foldes the files that were uploaded from the Mobile device are saved.
